@@ -1,5 +1,5 @@
 {
-    "name": "microbit-robot-controller-digtal-example",
+    "name": "microbit-robot-controller-digital-example",
     "description": "",
     "dependencies": {
         "core": "*",
